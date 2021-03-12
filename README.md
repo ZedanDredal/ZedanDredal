@@ -1,8 +1,8 @@
-/*
+
 *  ===== MagmaDev =====
 *  MagmaDev, technology, web programming.
 *  ====================
-*/
+
 
 ~~~~~~~~~~~~~~~~~~~~
 ~ A bit of theory and culture
