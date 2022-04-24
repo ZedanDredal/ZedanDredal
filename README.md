@@ -27,18 +27,18 @@ with the integration of a content management system.
 ~ History:
 ~ ~~~~~~~~~~~~~~~~~~~
 - I work in different programming languages, once upon a time I worked with 
-Basic, Assembly, Python and wrote various applications, but this is already forgotten.
+- Basic, Assembly, Python and wrote various applications, but this is already forgotten.
 Occasionally I write some plugins and modules in Python.
 
-I mainly work with PHP, HTML, CSS, JS, MySQL, MySQLI, Sqlite.
+- I mainly work with PHP, HTML, CSS, JS, MySQL, MySQLI, Sqlite.
 
-My main direction is web programming, Websites, Web design, web applications, web programs.
+- My main direction is web programming, Websites, Web design, web applications, web programs.
 Enough at a high level.
 
-I started to be interested in programming in the distant past.
-In 2008, I started developing my CMS.Now I have about several dozen 
+- I started to be interested in programming in the distant past.
+- In 2008, I started developing my CMS.Now I have about several dozen 
 web applications that I have developed, many of which are in the public domain. 
-At the moment I am developing a multi-functional web application MWE-CMS, 
+- At the moment I am developing a multi-functional web application MWE-CMS, 
 in transcript this is Magma web-engine, you can get acquainted with this work on the forum.
 
 ~ ~~~~~~~~~~~~~~~~~~~
