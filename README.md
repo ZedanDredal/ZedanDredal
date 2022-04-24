@@ -26,7 +26,7 @@ with the integration of a content management system.
 ~ ~~~~~~~~~~~~~~~~~~~
 ~ History:
 ~ ~~~~~~~~~~~~~~~~~~~
-I work in different programming languages, once upon a time I worked with 
+- I work in different programming languages, once upon a time I worked with 
 Basic, Assembly, Python and wrote various applications, but this is already forgotten.
 Occasionally I write some plugins and modules in Python.
 
