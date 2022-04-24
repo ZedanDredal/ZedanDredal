@@ -3,16 +3,17 @@
 --  MagmaDev, technology, web programming. --
 ---------------------------------------------
 
-
 ~~~~~~~~~~~~~~~~~~~~
 ~ A bit of theory and culture
 ~~~~~~~~~~~~~~~~~~~~
-* Started with the study of PEA basic EC, including radiophysics and physics and mathematics in PEA, Electronics and Electronic Components.
-* In parallel, he studied Astronomy and Astrophysics (This is different), mainly the theory of relativity.
-* Studied privately, various computers (Electronic Computing Machine), and REA basic EC, including radiophysics and physics and mathematics at REA, including participated in scientific events.
-* At the same time, he was interested in music, studied music himself, received a diploma as a composer of Electronic Instrumental Music in 2016, unusual music.
+* Started: Since childhood, I have attended various mugs in electronic computers and programming. have always taken a deep interest.
+* Radio engineering and physics: Started with the study of PEA basic EC, including radiophysics and physics and mathematics in PEA, Electronics and Electronic Components.
+* Astrophysics: In parallel, he studied Astronomy and Astrophysics (This is different), mainly the theory of relativity.
+* Computing machines and programming: Studied privately, various computers (Electronic Computing Machine), basic IT, including participated in scientific events.
 * Advanced study of philosophy, philosophy of science, studying the concept, boundaries and methodology, emotions of humanity and actions, Theory and philosophy of the Universe.
-* Unlearned construction, got a little experience as an electric welder and a gas welder.
+* Additional: Unlearne construction and finisher, got a little experience as an electric welder and a gas welder.
+* Music and creativity: At the same time, he was interested in music, studied music himself, received a diploma as a composer of Electronic Instrumental Music in 2016, unusual music.
+* Graduated from the Polytechnic University with excellent marks in region 34.
 
 ~~~~~~~~~~~~~~~~~~~~
 ~ Professional skills:
@@ -51,6 +52,14 @@ In 2008, I started developing my CMS.Now I have about several dozen
 web applications that I have developed, many of which are in the public domain. 
 At the moment I am developing a multi-functional web application MWE-CMS, 
 in transcript this is Magma web-engine, you can get acquainted with this work on the forum.
+
+~~~~~~~~~~~~~~~~~~~~
+~ Game activity:
+~~~~~~~~~~~~~~~~~~~~
+Creation of game scripts for unity 3d.
+Writing mods for Call of Duty 4 MP.
+work with game mechanics and optimization.
+work with game servers, creation, optimization.
 
 ---------------------------------------------
 --             To be continued             --
